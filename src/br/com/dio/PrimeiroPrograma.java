@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
 		
 		Gato gato = new Gato();
 		
-		Livro livro1 = new Livro("Thinking in Java", 1482);
+		Livro livro1 = new Livro("Thinking in Java - Bruce Eckel", 1482);
 		
 		System.out.println(gato);
 		
